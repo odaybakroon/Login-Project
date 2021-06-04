@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectLogin</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="register">Register</string>
+    <string name="this_field_is_required">This field is required</string>
+    <string name="please_enter_a_valid_email">Please, Enter a valid email</string>
+    <string name="loading">Loading …</string>
+    <string name="do_you_not_have_account">Do you not have account ?</string>
+    <string name="do_you_have_account">Do you have account ?</string>
+    <string name="add_update_registration_token">Add/Update registration token</string>
+</resources>
